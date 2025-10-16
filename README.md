@@ -18,7 +18,7 @@ A responsive React dashboard to manage patient records with search, add new pati
 ## Screenshots
 
 ### Landing Page
-![Landing](Landing page.png)
+![Landing](Landingpage.png)
 
 ### Patient List
 ![Patients](Patientlist.png)
