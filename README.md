@@ -10,19 +10,21 @@ A responsive React dashboard to manage patient records with search, add new pati
 - Add new patient (local state)
 - Responsive design for desktop & mobile
 - Loading & error states while fetching API
-  ## Setup Instructions
+  
+## Setup Instructions
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/vaishalis29/Patient_Dashboard.git
+
 ## Screenshots
 
 ### Landing Page
-![Landing](screenshots/landing.png)
+![Landing](landing.png)
 
 ### Patient List
-![Patients](screenshots/PatientList.png)
+![Patients](PatientList.png)
 
 ### Add New Patient
-![Add Patient](screenshots/AddPatient.png)
+![Add Patient](AddPatient.png)
 
 
 ## Live Demo
